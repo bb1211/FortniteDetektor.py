@@ -1,0 +1,1 @@
+# FortniteDetektor.py
